@@ -1,0 +1,117 @@
+/* Backdrop */
+.rp__backdrop {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, .5);
+    display: grid;
+    place-items: center;
+    z-index: 1000;
+  }
+  
+  /* Panel */
+  .rp__panel {
+    position: relative;
+    width: 92%;
+    max-width: 520px;
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0,0,0,.2);
+    padding: 20px 20px 16px;
+    animation: rp__pop .12s ease-out;
+  }
+  
+  @keyframes rp__pop {
+    from { transform: translateY(6px); opacity: 0; }
+    to   { transform: translateY(0);   opacity: 1; }
+  }
+  
+  /* Close button */
+  .rp__close {
+    position: absolute;
+    right: 12px;
+    top: 10px;
+    border: 0;
+    background: transparent;
+    font-size: 26px;
+    line-height: 1;
+    cursor: pointer;
+    color: #12233b;
+  }
+  
+  /* Title */
+  .rp__title {
+    margin: 0 28px 12px 0;
+    font-size: 1.2rem;
+    color: #12233b;
+  }
+  
+  /* Form layout */
+  .rp__label {
+    display: grid;
+    gap: 6px;
+    font-size: .92rem;
+    color: #273247;
+  }
+  
+  .rp__panel form {
+    display: grid;
+    gap: 10px;
+  }
+  
+  /* Inputs */
+  .rp__input,
+  .rp__textarea {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid #e3e7ed;
+    border-radius: 10px;
+    font-size: 0.95rem;
+    outline: none;
+  }
+  
+  .rp__input:focus,
+  .rp__textarea:focus {
+    border-color: #7aa7ff;
+    box-shadow: 0 0 0 3px rgba(122, 167, 255, .25);
+  }
+  
+  /* Consent */
+  .rp__consent {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    font-size: .9rem;
+    color: #3a4760;
+  }
+  
+  /* Submit */
+  .rp__submit {
+    border: 0;
+    border-radius: 999px;
+    padding: .6rem 1rem;
+    cursor: pointer;
+    background: #163e72;   /* adjust to your brand */
+    color: #fff;
+    font-weight: 600;
+  }
+  .rp__submit[disabled] {
+    opacity: .7;
+    cursor: default;
+  }
+  
+  /* Status */
+  .rp__status {
+    min-height: 1.2em;
+    font-size: .9rem;
+    color: #2b3a55;
+    margin-top: 4px;
+  }
+  
+  /* Honeypot (hidden) */
+  .rp__hp {
+    position: absolute;
+    left: -9999px;
+    opacity: 0;
+    pointer-events: none;
+  }
+  

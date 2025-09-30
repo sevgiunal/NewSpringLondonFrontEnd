@@ -1,0 +1,129 @@
+.about-wrapper{
+    background: #013d5a;
+
+
+}
+.about {
+    padding: 40px 20px;
+    max-width: 1100px;
+    margin: 0 auto;
+    text-align: center;
+    background: #013d5a;
+    
+  }
+
+  
+  .about__title {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #fff;
+
+  }
+  
+  .about__subtitle {
+    font-size: 1.1rem;
+    color: #fff;
+
+    margin-bottom: 40px;
+  }
+  
+
+  .about__mission-vision{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+      "mission image"
+      "vision  image";
+    column-gap: 16px;   /* was larger — tighter now */
+    row-gap: 12px;      /* reduce vertical gap between mission & vision */
+    align-items: start;
+  }
+  
+  /* Place items into the grid areas and remove extra margins */
+  .about__mission{ 
+    grid-area: mission; 
+    margin: 0;      
+    background: #fcf3e3;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: left;}
+
+  .about__vision{  
+    grid-area: vision;  
+    margin: 0;     
+    background: #fcf3e3;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: left; }
+
+  .about__image{   grid-area: image;   }
+  
+  .about__mission,
+  .about__vision{
+    padding: 46px;    
+            /* slightly smaller padding = less perceived gap */
+  }
+  
+  .about__mission h2,
+  .about__vision h2 {
+    margin-bottom: 10px;
+    font-size: 1.3rem;
+    color: #163e72;
+  }
+  
+  .about__image img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px rgba(0,0,0,.1);
+  }
+  
+  .about__values {
+    margin-top: 20px;
+    
+  }
+  
+  .about__values h2 {
+    font-size: 1.6rem;
+    color: #fff;
+  }
+  
+  .about__values p {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    color: #fff;
+  }
+  
+  .about__values-grid{
+    display: grid;
+    grid-template-columns: repeat(3, minmax(300px, 1fr)); /* wider columns */
+    gap: 28px 32px;                                      /* more spacing */
+    align-items: stretch;
+  }
+  
+  .about__value-card{
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 5px 15px rgba(0,0,0,.08);
+    padding: 12px 28px;
+    /* optionally enforce a shape */
+    /* aspect-ratio: 5 / 3; */
+    display: flex;
+    flex-direction: column;
+  }
+  .about__value-card p {
+    color: #000000;
+    padding: 10px 15px;
+    text-align: left;
+  }
+
+  
+  .about__icon {
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+/* gap between the first and second rows */
+.about__values-grid--bottom{
+    margin-top: 24px;   /* CLEAR gap between the two rows */
+  }
