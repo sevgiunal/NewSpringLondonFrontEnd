@@ -7,12 +7,14 @@ import Products from './components/pages/Products';
 import GetAQuote from './components/pages/GetAQuote';
 import Build from './components/pages/Build';
 import About from './components/pages/About';
+import Footer from './components/Footer';
 
 function App() {
   return (
     <>
     <Router>
       <NavBar />
+      <Home />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/products" element={<Products />} />
