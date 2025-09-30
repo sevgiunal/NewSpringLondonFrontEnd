@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NewSpringLondonFrontEnd/static/css/main.f5582794.css",
-    "main.js": "/NewSpringLondonFrontEnd/static/js/main.54696ab1.js",
+    "main.js": "/NewSpringLondonFrontEnd/static/js/main.87f46f45.js",
     "static/media/renovation_pic.jpg": "/NewSpringLondonFrontEnd/static/media/renovation_pic.3ac2bfc46ebfb48d404c.jpg",
     "static/media/constructionpic.jpg": "/NewSpringLondonFrontEnd/static/media/constructionpic.bddbd7b15f7659c9fe92.jpg",
     "static/media/build_house.jpg": "/NewSpringLondonFrontEnd/static/media/build_house.7d8d5194931df78cc121.jpg",
@@ -13,10 +13,10 @@
     "static/media/SecondaryLogo.png": "/NewSpringLondonFrontEnd/static/media/SecondaryLogo.c15e7c9595354200e370.png",
     "index.html": "/NewSpringLondonFrontEnd/index.html",
     "main.f5582794.css.map": "/NewSpringLondonFrontEnd/static/css/main.f5582794.css.map",
-    "main.54696ab1.js.map": "/NewSpringLondonFrontEnd/static/js/main.54696ab1.js.map"
+    "main.87f46f45.js.map": "/NewSpringLondonFrontEnd/static/js/main.87f46f45.js.map"
   },
   "entrypoints": [
     "static/css/main.f5582794.css",
-    "static/js/main.54696ab1.js"
+    "static/js/main.87f46f45.js"
   ]
 }
