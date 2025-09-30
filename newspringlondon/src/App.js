@@ -20,6 +20,7 @@ function App() {
         <Route path="/getaquote" element={<GetAQuote />} />
         <Route path="/buildhouses" element={<Build />} />
         <Route path="/aboutus" element={<About />} />
+        <Route path="*" element={<Home />} />
       </Routes>
       <Footer />
     </Router>
