@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NewSpringLondonFrontEnd/static/css/main.f5582794.css",
+    "main.js": "/NewSpringLondonFrontEnd/static/js/main.54696ab1.js",
+    "static/media/renovation_pic.jpg": "/NewSpringLondonFrontEnd/static/media/renovation_pic.3ac2bfc46ebfb48d404c.jpg",
+    "static/media/constructionpic.jpg": "/NewSpringLondonFrontEnd/static/media/constructionpic.bddbd7b15f7659c9fe92.jpg",
+    "static/media/build_house.jpg": "/NewSpringLondonFrontEnd/static/media/build_house.7d8d5194931df78cc121.jpg",
+    "static/media/toilet_pic.jpg": "/NewSpringLondonFrontEnd/static/media/toilet_pic.2f7479d4e8d5c77830db.jpg",
+    "static/media/GoldFaucet.png": "/NewSpringLondonFrontEnd/static/media/GoldFaucet.88d5e5735a3514694263.png",
+    "static/media/golddetailed.png": "/NewSpringLondonFrontEnd/static/media/golddetailed.f9a12bc4d23184583393.png",
+    "static/media/standardwhite.png": "/NewSpringLondonFrontEnd/static/media/standardwhite.090c7d26732783f43e0e.png",
+    "static/media/SecondaryLogoFlip.png": "/NewSpringLondonFrontEnd/static/media/SecondaryLogoFlip.048166f8d9b7f7b44f38.png",
+    "static/media/SecondaryLogo.png": "/NewSpringLondonFrontEnd/static/media/SecondaryLogo.c15e7c9595354200e370.png",
+    "index.html": "/NewSpringLondonFrontEnd/index.html",
+    "main.f5582794.css.map": "/NewSpringLondonFrontEnd/static/css/main.f5582794.css.map",
+    "main.54696ab1.js.map": "/NewSpringLondonFrontEnd/static/js/main.54696ab1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5582794.css",
+    "static/js/main.54696ab1.js"
+  ]
+}
