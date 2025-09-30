@@ -1,7 +1,7 @@
 import React from 'react'
 import './Footer.css'
 import { Link } from 'react-router-dom'
-import SecondaryLogoFlip from "/Users/sevgiunal/Desktop/NewSpringLondonLTD/NewSpringLondonFrontEnd/newspringlondon/src/assets/SecondaryLogoFlip.png";
+import SecondaryLogoFlip from "./assets/SecondaryLogoFlip.png";
 
 
 function Footer() {

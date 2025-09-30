@@ -1,9 +1,9 @@
 import React from 'react';
 import CardItem from './CardItem';
 import './Cards.css';
-import build_house from "/Users/sevgiunal/Desktop/NewSpringLondonLTD/NewSpringLondonFrontEnd/newspringlondon/src/assets/build_house.jpg";
-import renovation_pic from "/Users/sevgiunal/Desktop/NewSpringLondonLTD/NewSpringLondonFrontEnd/newspringlondon/src/assets/renovation_pic.jpg";
-import toilet_pic from "/Users/sevgiunal/Desktop/NewSpringLondonLTD/NewSpringLondonFrontEnd/newspringlondon/src/assets/toilet_pic.jpg";
+import build_house from "./assets/build_house.jpg";
+import renovation_pic from "./assets/renovation_pic.jpg";
+import toilet_pic from "./assets/toilet_pic.jpg";
 
 
 function Cards() {

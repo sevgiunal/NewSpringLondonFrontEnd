@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import { Link } from 'react-router-dom'
 import './NavBar.css';
-import SecondaryLogo from "/Users/sevgiunal/Desktop/NewSpringLondonLTD/NewSpringLondonFrontEnd/newspringlondon/src/assets/SecondaryLogo.png";
+import SecondaryLogo from "./assets/SecondaryLogo.png";
 
 function NavBar() {
   const [click, setClick] = useState(false);

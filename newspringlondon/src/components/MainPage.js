@@ -1,5 +1,5 @@
 import React from 'react';
-import constructionpic from "/Users/sevgiunal/Desktop/NewSpringLondonLTD/NewSpringLondonFrontEnd/newspringlondon/src/assets/constructionpic.jpg";
+import constructionpic from "./assets/constructionpic.jpg";
 import './MainPage.css';
 import '../App.css';
 import { Button } from './Button';
