@@ -2,7 +2,6 @@ import React from 'react';
 import '../../App.css';
 import MainPage from '../MainPage';
 import Cards from '../Cards';
-import Footer from '../Footer';
 import ProductPage from '../ProductPage';
 
 function Home () {
@@ -11,7 +10,6 @@ function Home () {
         < MainPage /> 
          <Cards />
         <ProductPage />
-        <Footer />
         </>
 
     )
