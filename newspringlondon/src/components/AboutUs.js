@@ -1,6 +1,6 @@
 import React from 'react'
 import './AboutUs.css';
-import constructionpic from './assets/constructionpic.jpg'
+import constructionpic from '../assets/constructionpic.jpg'
 
 function AboutUs() {
   return (

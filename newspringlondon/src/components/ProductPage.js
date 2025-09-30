@@ -1,9 +1,9 @@
 import React from 'react';
 import ProductItem from './ProductItem';
 import './ProductPage.css';
-import standardwhite from "./assets/standardwhite.png";
-import golddetailed from "./assets/golddetailed.png";
-import goldfaucet from "./assets/GoldFaucet.png";
+import standardwhite from "../assets/standardwhite.png";
+import golddetailed from "../assets/golddetailed.png";
+import goldfaucet from "../assets/GoldFaucet.png";
 
 
 
