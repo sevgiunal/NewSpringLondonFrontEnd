@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.b8c2b94f.css",
-    "main.js": "./static/js/main.723d7576.js",
-    "static/media/renovation_pic.jpg": "./static/media/renovation_pic.3ac2bfc46ebfb48d404c.jpg",
-    "static/media/constructionpic.jpg": "./static/media/constructionpic.bddbd7b15f7659c9fe92.jpg",
-    "static/media/build_house.jpg": "./static/media/build_house.7d8d5194931df78cc121.jpg",
-    "static/media/toilet_pic.jpg": "./static/media/toilet_pic.2f7479d4e8d5c77830db.jpg",
-    "static/media/GoldFaucet.png": "./static/media/GoldFaucet.88d5e5735a3514694263.png",
-    "static/media/golddetailed.png": "./static/media/golddetailed.f9a12bc4d23184583393.png",
-    "static/media/standardwhite.png": "./static/media/standardwhite.090c7d26732783f43e0e.png",
-    "static/media/SecondaryLogoFlip.png": "./static/media/SecondaryLogoFlip.048166f8d9b7f7b44f38.png",
-    "static/media/SecondaryLogo.png": "./static/media/SecondaryLogo.c15e7c9595354200e370.png",
-    "index.html": "./index.html",
-    "main.b8c2b94f.css.map": "./static/css/main.b8c2b94f.css.map",
-    "main.723d7576.js.map": "./static/js/main.723d7576.js.map"
+    "main.css": "/static/css/main.b8c2b94f.css",
+    "main.js": "/static/js/main.6065ea83.js",
+    "static/media/renovation_pic.jpg": "/static/media/renovation_pic.3ac2bfc46ebfb48d404c.jpg",
+    "static/media/constructionpic.jpg": "/static/media/constructionpic.bddbd7b15f7659c9fe92.jpg",
+    "static/media/build_house.jpg": "/static/media/build_house.7d8d5194931df78cc121.jpg",
+    "static/media/toilet_pic.jpg": "/static/media/toilet_pic.2f7479d4e8d5c77830db.jpg",
+    "static/media/GoldFaucet.png": "/static/media/GoldFaucet.88d5e5735a3514694263.png",
+    "static/media/golddetailed.png": "/static/media/golddetailed.f9a12bc4d23184583393.png",
+    "static/media/standardwhite.png": "/static/media/standardwhite.090c7d26732783f43e0e.png",
+    "static/media/SecondaryLogoFlip.png": "/static/media/SecondaryLogoFlip.048166f8d9b7f7b44f38.png",
+    "static/media/SecondaryLogo.png": "/static/media/SecondaryLogo.c15e7c9595354200e370.png",
+    "index.html": "/index.html",
+    "main.b8c2b94f.css.map": "/static/css/main.b8c2b94f.css.map",
+    "main.6065ea83.js.map": "/static/js/main.6065ea83.js.map"
   },
   "entrypoints": [
     "static/css/main.b8c2b94f.css",
-    "static/js/main.723d7576.js"
+    "static/js/main.6065ea83.js"
   ]
 }
