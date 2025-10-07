@@ -22,7 +22,7 @@ function ProductPage() {
                     title="AquaFlow Pro"
                     text="Standard White Toilet with Bidet"
                     subtitle="Sleek modern design with soft-close seat and dual-flush technology"
-                    price="£285"
+                   
                     label="SALE"
                     tags={['Water efficient', 'Easy installation', 'Modern design']}
                     />
@@ -32,7 +32,7 @@ function ProductPage() {
                     title="AquaFlow Pro"
                     text="Gold Detailed Toilet with Bidet"
                     subtitle="Sleek modern design with soft-close seat and dual-flush technology"
-                    price="£285"
+                    
                     label="SALE"
                     tags={['Water efficient', 'Easy installation', 'Modern design']}
                     />
@@ -42,7 +42,7 @@ function ProductPage() {
                     title="AquaFlow Pro"
                     text="Gold Detailed Faucet"
                     subtitle="Sleek modern design with soft-close seat and dual-flush technology"
-                    price="£285"
+                    
                     label="SALE"
                     tags={['Water efficient', 'Easy installation', 'Modern design']}
                     />

@@ -95,11 +95,10 @@
     }
   
     .nav-menu.active {
-      background: #242222;
+      background: #fff;
       left: 0;
       opacity: 1;
       transition: all 0.5s ease;
-      z-index: 1;
     }
   
     .nav-links {
@@ -130,6 +129,7 @@
       transform: translate(-100%, 60%);
       font-size: 1.8rem;
       cursor: pointer;
+      color: #013d5a;
     }
   
     .fa-times {
@@ -146,14 +146,14 @@
       text-decoration: none;
       font-size: 1.5rem;
       background-color: transparent;
-      color: #fff;
+      color: #013d5a;
       padding: 14px 20px;
       border: 1px solid #fff;
       transition: all 0.3s ease-out;
     }
   
     .nav-links-mobile:hover {
-      background: #fff;
+      background: #013d5a;
       color: #242424;
       transition: 250ms;
     }

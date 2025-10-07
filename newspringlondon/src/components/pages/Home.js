@@ -8,8 +8,9 @@ function Home () {
     return (
         <>
         < MainPage /> 
-         <Cards />
         <ProductPage />
+         <Cards />
+        
         </>
 
     )
